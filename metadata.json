@@ -1,0 +1,6 @@
+{
+  "name": "GrammarVoice",
+  "description": "آموزش گرامر زبان انگلیسی مبتدی همراه با ویس، تلفظ صوتی و تمرین‌های تعاملی شنیداری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
